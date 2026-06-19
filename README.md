@@ -17,6 +17,10 @@ Instead of generating immediate answers, the agent:
 
 The agent maintains internal state throughout the research process, tracks previously explored sources, and avoids redundant actions whenever possible.
 
+## Example Output
+
+![Research Agent Final Report](screenshots/final_report.png)
+
 ---
 
 ## Features
@@ -158,7 +162,7 @@ python research_agent.py
 
 Enter a research query when prompted.
 
-Example queries:
+### Example Queries
 
 ```text
 Analyze India's EV Market
